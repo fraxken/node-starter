@@ -19,6 +19,15 @@ And there is a lot of sub cases :
 
 # The solution
 
-The solution is to create an interactive website that will ask you to make choice and answer questions (To define how you are and tell you what ressources are the best).
+The solution is to create an interactive website that will ask you to make choice and answer questions (To define how you are and tell you what ressources are the best). Why not a another README ? (Because we need some back-end logic, and because a graphical website with some animations should be a much better experience for beginners etc). 
 
 We cannot succeed to match 100% of what of the user really need (sure). But this would bring a much better experience for every new Node.JS developer.
+
+# Technical overview
+
+The idea is to link the community links/works to some "tags". For example : 
+
+- express.js tags should be : `http-framework`, `production`, `good-start`
+- nvm : `system`, `package-manager`
+
+So on the website all ressources are linked automatically. We can apply the same kind of process for our own Markdown files by writing a JSON files with all tags in (or something similar). 
