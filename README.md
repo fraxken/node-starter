@@ -7,14 +7,14 @@ On Node.JS there is a lot of ressources available everywhere (Articles, Document
 
 And sometimes we made some efforts to bring a lot of ressources at a specific location (Just like : Hey! Here are a thousand resources, good luck). Finally the real problem is not fixed...
 
-For example if a System Administrator come : Does he care about how the event loop work ? No.. He want to know more about our Docker support, about how work NPM (Give him tool like NVM etc..).
+For example : if a System Administrator come (maybe he have to manage some Node.JS instances in production for his work) : Does he care about how the event loop work ? No.. He want to know more about our Docker support, about how work NPM (Give him tool like NVM etc..).
 
 And there is a lot of sub cases : 
 
 - Does it start development / programmation ?
 - Does it written JavaScript before ?
 - Does it come from PHP?
-- Is it a team-manager ?
+- Is it a team-manager ? (Talk to him about LTS cycle, NodeSource cases studies etc..) 
 - etc... 
 
 # (A possible) solution
@@ -25,10 +25,10 @@ We cannot succeed to match 100% of what of the user really need (sure). But this
 
 ## Technical overview
 
-The idea is to link the community links/works to some "tags". For "example" : 
+The idea is to link the community work to some "tags". For example : 
 
 - express.js tags should be : `http-framework`, `production`, `good-start`
-- nvm should : `system`, `package-manager`
+- nvm should : `system`, `node-manager`
 
 And we can also add a country tag. For example in French we have some very good talk of Christophe porteneuve (And some others talks from Devoxx about Electron, Express and many others...). 
 
