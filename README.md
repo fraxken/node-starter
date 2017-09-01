@@ -1,5 +1,5 @@
 # node-starter
-Node.JS - Interactive starter (ressources?) guide
+Node.JS - Interactive starter (ressources?) guide 
 
 # The problem
 
@@ -30,4 +30,6 @@ The idea is to link the community links/works to some "tags". For "example" :
 - express.js tags should be : `http-framework`, `production`, `good-start`
 - nvm should : `system`, `package-manager`
 
-So on the website all ressources are linked automatically. We can apply the same kind of process for our own Markdown files by writing a JSON files with all tags in (or something similar). 
+And we can also add a country tag. For example in French we have some very good talk of Christophe porteneuve (And some others talks from Devoxx about Electron, Express and many others...). 
+
+On the website all ressources should be linked automatically depending of the profil choices. We can apply the same kind of process for our own Markdown files by writing a JSON files with all tags in (or something similar). 
