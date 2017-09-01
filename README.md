@@ -1,5 +1,6 @@
 # node-starter
 Node.JS - Interactive starter (ressources?) guide 
+(Note: Sorry my english is not very good).
 
 # The problem
 
