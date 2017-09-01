@@ -33,3 +33,11 @@ The idea is to link the community links/works to some "tags". For "example" :
 And we can also add a country tag. For example in French we have some very good talk of Christophe porteneuve (And some others talks from Devoxx about Electron, Express and many others...). 
 
 On the website all ressources should be linked automatically depending of the profil choices. We can apply the same kind of process for our own Markdown files by writing a JSON files with all tags in (or something similar). 
+
+## Questions structure 
+
+Every questions have a priority and a tag property. That's not totaly clear how questions have to be chained between them right now (I continue to think about it to simplify the whole process and avoid unnecessary work). 
+
+![img](http://i.imgur.com/QhohhOE.png)
+
+I think priority and tags and not enougth properties (We need a third argument to maybe define the context).
