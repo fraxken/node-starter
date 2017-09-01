@@ -23,7 +23,7 @@ Creating an interactive website that will ask you to make choice and answer ques
 
 We cannot succeed to match 100% of what of the user really need (sure). But this would bring a much better experience for every new Node.JS community member (developer or not).
 
-# Technical overview
+## Technical overview
 
 The idea is to link the community links/works to some "tags". For "example" : 
 
